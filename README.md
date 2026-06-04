@@ -8,9 +8,8 @@ This project uses **TF-IDF Vectorization** for text feature extraction and a **L
 
 Try the deployed app here:
 
-```txt
 [https://your-streamlit-app-link.streamlit.app/](https://emotionpredictor-app.streamlit.app/)
-```
+
 
 ##  Project Overview
 
